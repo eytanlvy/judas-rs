@@ -1,7 +1,6 @@
 [package]
 name = "judas-rs"
 version = "0.1.0"
-edition = "2024"
 authors = ["Eytan Levy <eytanlevy@proton.me>", "Yaël Pajot <yael.pajot@outlook.fr>"]
 license = "MIT"
 
