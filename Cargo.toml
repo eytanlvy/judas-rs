@@ -1,8 +1,11 @@
 [package]
 name = "judas-rs"
 version = "0.1.0"
+edition = "2021"
 authors = ["Eytan Levy <eytanlevy@proton.me>", "Yaël Pajot <yael.pajot@outlook.fr>"]
 license = "MIT"
+repository = "https://github.com/eytanlvy/judas-rs"
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
