@@ -131,6 +131,7 @@ impl Mul<Matrix> for Matrix {
 	}
 }
 
+#[allow(dead_code)]
 impl Matrix {
 	pub fn new(matrix: Vec<Vec<i32>>) -> Matrix {
 		Matrix { matrix }
